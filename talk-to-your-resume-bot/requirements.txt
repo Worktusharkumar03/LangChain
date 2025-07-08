@@ -1,0 +1,8 @@
+langchain
+openai
+langchain-community
+langchain-openrouter
+python-dotenv
+streamlit
+pydantic
+pypdf

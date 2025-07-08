@@ -1,0 +1,14 @@
+langchain
+openai
+langchain-community
+langchain-openrouter
+langchain-openai
+python-dotenv
+streamlit
+pydantic
+pypdf
+tiktoken
+sentence-transformers
+faiss-cpu
+numpy
+packaging
